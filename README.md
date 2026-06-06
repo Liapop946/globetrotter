@@ -101,7 +101,7 @@ I think the html part was easy in terms of structuring everything, but I wish I 
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+None
 
 ### Shout out
 
