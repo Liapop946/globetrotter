@@ -2,7 +2,7 @@
 
 Submitted by: Ardelia Putridaryana
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 10 hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
@@ -83,9 +83,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Paste the **shareable link** to your animated app walkthrough below (replace `ADD_LOOM_LINK_HERE`). GitHub markdown won't render an embedded Loom player, so a plain link is what graders will use. Make sure the link is public and playable before submitting. (🚫 Remove this paragraph after adding your walkthrough link.)
-
-**Walkthrough video:** [Globetrotter Walkthrough](ADD_LOOM_LINK_HERE)
+**Walkthrough video:** [Globetrotter Walkthrough](https://www.loom.com/share/a78aed8ced9c4674aaf28de87d0bda8c)
 
 ### Reflection
 
@@ -95,11 +93,11 @@ I think the topics in the lab helped me prepare for this project because a lot o
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time to work on the project, I think I would work on making the navigation bar more accessible by making it stay at the top of the screen even when the user scrolls. Additionally, I think I would have spent less time worrying about how to start everything and just start somewhere. Another feature I wish I could have added was a built in map to see all the attractions and food locations.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think the html part was easy in terms of structuring everything, but I wish I had a clearer idea about the style for css and worked with Claude earlier for suggestions. I was hesitant to use Claude as I was focused on doing things myself, but I noticed my peers were utlizing it in a very helful way that was much more productive.
 
 ### Open-source libraries used
 
@@ -108,3 +106,5 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+Shout out to my peers Monika and Ava for providing me some support when I was feeling discouraged and shoutout to all of the instructors for help with any questions I had.
